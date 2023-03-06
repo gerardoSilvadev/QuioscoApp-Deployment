@@ -1,7 +1,7 @@
 import axios from 'axios'
 import useSWR from 'swr'
-import Orden from './components/Orden'
-import AdminLayout from "./layout/AdminLayout"
+import Orden from '/components/Orden'
+import AdminLayout from "/layout/AdminLayout"
 
 export default function Admin() {
     

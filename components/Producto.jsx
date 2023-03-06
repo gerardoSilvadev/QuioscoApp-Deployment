@@ -1,6 +1,6 @@
 import Image from "next/image"
 import { formatearDinero } from "helpers"
-import useQuiosco from "../hooks/UseQuiosco"
+import useQuiosco from "/hooks/UseQuiosco"
 
 const Producto = ({producto}) => {
 

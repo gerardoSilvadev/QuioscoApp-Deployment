@@ -1,5 +1,5 @@
 import Image from "next/image"
-import useQuiosco from "../hooks/UseQuiosco"
+import useQuiosco from "/hooks/UseQuiosco"
 import { formatearDinero } from "helpers"
 import { useState, useEffect } from "react"
 
